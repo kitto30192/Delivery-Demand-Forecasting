@@ -19,7 +19,6 @@ Delivery-Demand-Forecasting/
 ├── Backend/
 │   ├── main.py                 # FastAPI application server
 │   ├── xgboost_model.pkl       # Serialized trained XGBoost model
-│   └── weather_encoder.pkl     # Saved scikit-learn LabelEncoder artifact
 ├── Frontend/
 │   └── my-react-app/
 │       ├── src/
